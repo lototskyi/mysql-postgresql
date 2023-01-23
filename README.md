@@ -1,0 +1,1 @@
+a project to learn mysql and postgresql deeply
