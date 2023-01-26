@@ -6,3 +6,4 @@
 
 -- SELECT * FROM sales
 -- WHERE EXTRACT(DAY FROM date_fulfilled - date_created) <= 5; -- for timestamp
+
